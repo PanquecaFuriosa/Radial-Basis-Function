@@ -1,6 +1,6 @@
 # Radial Basis Functions
 
-In this repository there are an implementation of Radial Basis Functions and Universal approximator.
+In this repository there are implementations of Radial Basis Functions and Universal approximator.
 
 ## Radial Basis Function Class
 
